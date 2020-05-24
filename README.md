@@ -13,3 +13,11 @@ namespace について学んだ。
 ## ABC088_B_CardGameforTwo.cpp
 イテレータの意味を若干理解した。sortの使い方について学んだ。
 課題：sortアルゴリズムの理解。greater<int>()の意味
+## ABC085_B_KagamiMochi.cpp
+std::setの使い方を学んだ。バケット法による解法を学んだ。
+## ABC085_Otoshidama.cpp
+3重ループのごり押しではなく、2重ループで解けることとそのアプローチを学んだ。
+## ABC049_C_Daydream.cpp
+文字列の扱い方。解き方のアプローチを学んだ。課題：イテレータの概念。greedyアルゴリズムについて
+## ABC086_C_Traveling.cpp
+解き方のアプローチについて学んだ。秒数に応じて偶奇が変わるため、秒数と移動数の偶奇が一致する必要がある。
